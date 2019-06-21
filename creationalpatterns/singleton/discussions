@@ -3,3 +3,6 @@ Can variable of type final be modified using reflection?
 Detailed implementation of enum singleton?
 
 builder pattern in c++ ; in languages that support default parameters. 
+
+how to handle different parameters in factory subclass implementation. 
+
